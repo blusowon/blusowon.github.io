@@ -258,6 +258,10 @@ ul {
     nav ul li {
         font-size: 40px;
     }
+    
+    .box {
+        margin-bottom: 10px;
+    }
 
     .box h1 {
         font-size: 50px;
@@ -280,6 +284,10 @@ ul {
 @media only screen and (min-width: 1101px) {
     nav ul li {
         font-size: 30px;
+    }
+    
+    .box {
+        margin-bottom: 10px;
     }
 
     .box h1 {
