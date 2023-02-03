@@ -47,7 +47,7 @@ a:hover {
 }
 
 .box {
-    width: 
+    width: fit-content;
     background: rgba(255, 239, 8, 0.671);
     padding: 40px;
     text-align: center;
@@ -261,6 +261,8 @@ ul {
     
     .box {
         margin-bottom: 10px;
+        height: fit-content;
+        max-width: 30%;
     }
 
     .box h1 {
