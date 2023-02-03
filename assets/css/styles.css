@@ -290,6 +290,9 @@ ul {
     
     .box {
         margin-bottom: 10px;
+        width: 300px;
+        height: 100px;
+        padding: 50px;
     }
 
     .box h1 {
