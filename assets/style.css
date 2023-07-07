@@ -116,6 +116,6 @@ filter: gray;
 
 @media only screen and (max-width: 480px)  {
    #home img {
-       max-width: 250px;
+       max-width: 200px;
    }
 }
